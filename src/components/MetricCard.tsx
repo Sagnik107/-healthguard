@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { LucideIcon } from 'lucide-react';
-import { getRiskLevel, getRiskColor, getRiskBgColor } from '../utils/mockData';
+import { getRiskLevel, getRiskColor, getRiskBgColor } from '../utils/MockData';
 
 interface MetricCardProps {
   title: string;
